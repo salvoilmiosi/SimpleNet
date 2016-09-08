@@ -1,0 +1,168 @@
+# depslib dependency file v1.0
+1410626464 source:c:\users\computer\desktop\programmazione\progetti\simplenet\address.cpp
+	"Address.h"
+	"HostnameError.h"
+
+1410470317 c:\users\computer\desktop\programmazione\progetti\simplenet\address.h
+	"SimpleNet.h"
+	<winsock2.h>
+
+1410554233 c:\users\computer\desktop\programmazione\progetti\simplenet\simplenet.h
+
+1410559352 c:\users\computer\desktop\programmazione\progetti\simplenet\hostnameerror.h
+	"NetError.h"
+
+1410559331 c:\users\computer\desktop\programmazione\progetti\simplenet\neterror.h
+	"SimpleNet.h"
+
+1410467737 source:c:\users\computer\desktop\programmazione\progetti\simplenet\bytearray.cpp
+	"ByteArray.h"
+	<cstring>
+
+1410470328 c:\users\computer\desktop\programmazione\progetti\simplenet\bytearray.h
+	"SimpleNet.h"
+
+1410464066 source:c:\users\computer\desktop\programmazione\progetti\simplenet\datagrampacket.cpp
+	"DatagramPacket.h"
+
+1410470334 c:\users\computer\desktop\programmazione\progetti\simplenet\datagrampacket.h
+	"SimpleNet.h"
+	"Address.h"
+	"ByteArray.h"
+
+1410466077 source:c:\users\computer\desktop\programmazione\progetti\simplenet\datagramsocket.cpp
+	"DatagramSocket.h"
+	"SocketClosedError.h"
+
+1410470337 c:\users\computer\desktop\programmazione\progetti\simplenet\datagramsocket.h
+	"SimpleNet.h"
+	"Socket.h"
+	"DatagramPacket.h"
+
+1410470373 c:\users\computer\desktop\programmazione\progetti\simplenet\socket.h
+	"SimpleNet.h"
+	<winsock2.h>
+	"Address.h"
+	"ByteArray.h"
+
+1410559126 c:\users\computer\desktop\programmazione\progetti\simplenet\socketclosederror.h
+	"SocketError.h"
+
+1410559380 c:\users\computer\desktop\programmazione\progetti\simplenet\socketerror.h
+	"NetError.h"
+
+1410382457 source:c:\users\computer\desktop\programmazione\progetti\simplenet\serversocket.cpp
+	"ServerSocket.h"
+	"SocketError.h"
+
+1410470365 c:\users\computer\desktop\programmazione\progetti\simplenet\serversocket.h
+	"SimpleNet.h"
+	"Socket.h"
+
+1410556829 source:c:\users\computer\desktop\programmazione\progetti\simplenet\simplenet.cpp
+	"SimpleNet.h"
+	<iostream>
+	<windows.h>
+	<winsock2.h>
+
+1410539992 source:c:\users\computer\desktop\programmazione\progetti\simplenet\socket.cpp
+	"Socket.h"
+	"SocketClosedError.h"
+
+1410559163 source:c:\users\computer\desktop\programmazione\progetti\simplenet\hostnameerror.cpp
+	"HostnameError.h"
+
+1410559125 source:c:\users\computer\desktop\programmazione\progetti\simplenet\socketclosederror.cpp
+	"SocketClosedError.h"
+
+1410559504 source:c:\users\computer\desktop\programmazione\progetti\simplenet\neterror.cpp
+	"NetError.h"
+	<cerrno>
+	<cstring>
+
+1410884751 source:c:\users\computer\desktop\programmazione\prog rete\simplenet\address.cpp
+	"Address.h"
+	"HostnameError.h"
+
+1410981429 c:\users\computer\desktop\programmazione\prog rete\simplenet\address.h
+	"SimpleNet.h"
+	<winsock.h>
+
+1410981369 c:\users\computer\desktop\programmazione\prog rete\simplenet\simplenet.h
+
+1410981369 c:\users\computer\desktop\programmazione\prog rete\simplenet\hostnameerror.h
+	"NetError.h"
+
+1410981369 c:\users\computer\desktop\programmazione\prog rete\simplenet\neterror.h
+	"SimpleNet.h"
+
+1410467737 source:c:\users\computer\desktop\programmazione\prog rete\simplenet\bytearray.cpp
+	"ByteArray.h"
+	<cstring>
+
+1410981370 c:\users\computer\desktop\programmazione\prog rete\simplenet\bytearray.h
+	"SimpleNet.h"
+
+1410464066 source:c:\users\computer\desktop\programmazione\prog rete\simplenet\datagrampacket.cpp
+	"DatagramPacket.h"
+
+1410981370 c:\users\computer\desktop\programmazione\prog rete\simplenet\datagrampacket.h
+	"SimpleNet.h"
+	"Address.h"
+	"ByteArray.h"
+
+1410882339 source:c:\users\computer\desktop\programmazione\prog rete\simplenet\datagramsocket.cpp
+	"DatagramSocket.h"
+	"SocketClosedError.h"
+
+1410981370 c:\users\computer\desktop\programmazione\prog rete\simplenet\datagramsocket.h
+	"SimpleNet.h"
+	"Socket.h"
+	"DatagramPacket.h"
+
+1410981429 c:\users\computer\desktop\programmazione\prog rete\simplenet\socket.h
+	"SimpleNet.h"
+	<winsock.h>
+	"Address.h"
+	"ByteArray.h"
+
+1410981370 c:\users\computer\desktop\programmazione\prog rete\simplenet\socketclosederror.h
+	"SocketError.h"
+
+1410981370 c:\users\computer\desktop\programmazione\prog rete\simplenet\socketerror.h
+	"NetError.h"
+
+1410559163 source:c:\users\computer\desktop\programmazione\prog rete\simplenet\hostnameerror.cpp
+	"HostnameError.h"
+
+1410885943 source:c:\users\computer\desktop\programmazione\prog rete\simplenet\neterror.cpp
+	"NetError.h"
+	<winsock.h>
+	<windows.h>
+	<cstdio>
+
+1410382457 source:c:\users\computer\desktop\programmazione\prog rete\simplenet\serversocket.cpp
+	"ServerSocket.h"
+	"SocketError.h"
+
+1410981369 c:\users\computer\desktop\programmazione\prog rete\simplenet\serversocket.h
+	"SimpleNet.h"
+	"Socket.h"
+
+1410877903 source:c:\users\computer\desktop\programmazione\prog rete\simplenet\simplenet.cpp
+	"SimpleNet.h"
+	<iostream>
+	<windows.h>
+	<winsock2.h>
+
+1410882559 source:c:\users\computer\desktop\programmazione\prog rete\simplenet\socket.cpp
+	"Socket.h"
+	"SocketClosedError.h"
+	"FailedConnectionError.h"
+
+1410559125 source:c:\users\computer\desktop\programmazione\prog rete\simplenet\socketclosederror.cpp
+	"SocketClosedError.h"
+
+1410981369 c:\users\computer\desktop\programmazione\prog rete\simplenet\failedconnectionerror.h
+	"SocketError.h"
+
